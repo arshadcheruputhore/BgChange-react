@@ -81,7 +81,7 @@ function BtnContainer() {
             setBtn3(prevState => prevState = 'active')
         }
         else {
-            setTextBtn3(prevState => prevState = 'CHANGE TO ORANGE')
+            setTextBtn3(prevState => prevState = 'CHANGE TO VIOLET')
             setBg3(prevState => prevState = '')
 
             setBtn1(prevState => prevState = '')
